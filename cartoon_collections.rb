@@ -6,7 +6,7 @@ end
 
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
-def summons_captain_planet(array)
+def summon_captain_planet(array)
   array.map {|memo| memo.capitalize + "!"}
 end
 
