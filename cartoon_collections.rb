@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  p dwarves.each do |name|d
+  p dwarves.each do |name|
   end
 end
 
