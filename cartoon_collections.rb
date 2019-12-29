@@ -1,5 +1,6 @@
 def roll_call_dwarves(dwarves)
-  p dwarves.each do |name|
+  dwarves.each do |i|
+    print "#{i}"
   end
 end
 
